@@ -1,0 +1,28 @@
+name: soulcare
+favicon: null
+layout_spectrum: 0.920428188983351
+typography_spectrum: 0.5347861985210329
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.2425115539226681
+  lightness: 0.5651915038470179
+  saturation: 0.3621320785023272
+  rhythmicContrast: 0.20761221880093217
+purpose: []
